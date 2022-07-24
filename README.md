@@ -1,2 +1,3 @@
 # titan-prim
-Just a random Mindustry project I made. Except, it's just SCHEMATICS?! Wth?
+Just a random Mindustry project I made.
+Might not finish because fuck noobcrastination.
